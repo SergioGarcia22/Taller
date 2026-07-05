@@ -1,0 +1,5 @@
+# Configuración del Editor de Texto
+DEFAULT_FILENAME=sin_nombre.txt
+HEADER_COLOR=44
+AUTOSAVE_INTERVAL=10
+SHOW_CLOCK=0
